@@ -1,0 +1,60 @@
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Administrator\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Pat\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+K:\daten\Programmierung\C# - VS\Projekte\WinForms\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+E:\Users\Pat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+E:\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+E:\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+E:\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+E:\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Administrator\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
